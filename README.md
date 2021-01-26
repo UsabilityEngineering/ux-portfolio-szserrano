@@ -1,4 +1,4 @@
-# UX Portfolio
+# Sydney's User eXperience eXpo
 
 
 ## UX Team Project
