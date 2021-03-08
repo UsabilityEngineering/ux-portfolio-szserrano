@@ -7,8 +7,8 @@ with the flavors and sugars within a shaker filled with ice to cool it down. Now
 to ice more than two drinks at a time. So then I was introduced to the milk tea shaker machine that the staff uses when the line gets hectic. Below are a couple of images  
 of the machine:  
   
-![Bubble Tea Shaker Holding Shaker Cups](https://github.com/UsabilityEngineering/ux-portfolio-szserrano/blob/master/bubble-tea-shaker.jpg)
-![Bubble Tea Shaker Without Shaker Cups](https://github.com/UsabilityEngineering/ux-portfolio-szserrano/blob/master/buy-bubble-tea-shaker-machine.jpg)  
+![Bubble Tea Shaker Holding Shaker Cups](bubble-tea-shaker.jpg)
+![Bubble Tea Shaker Without Shaker Cups](buy-bubble-tea-shaker-machine.jpg)  
   
 The **utility** of this bad boy allows a barista to place two shaker cups in and presses a button to have it start shaking the cups for a certain number of seconds,  
 depending on the button that was pressed. It allows a barista to focus on other tasks, such as shaking one or two other shaker cups or pouring other drinks that are  
@@ -16,7 +16,7 @@ past the shaking process and sealing the cups that they are poured into. The **e
 drinks within five to ten seconds, depending on the button pressed. The **learnability** of the machine was probably one of its weaknesses overall. Here is a picture  
 of the buttons that are on the front of the machine:  
   
-![Bubble Tea Shaker Front Buttons](https://github.com/UsabilityEngineering/ux-portfolio-szserrano/blob/master/bubble-tea-shaker-buttons-close.jpg)  
+![Bubble Tea Shaker Front Buttons](bubble-tea-shaker-buttons-close.jpg)  
   
 Instead of the images that are present on the blue buttons above the "Quick Button" text, the machine within my workplace had the letters A through E from left to right.  
 Each button resulted in the machine shaking in five more seconds than the button on the left. This meant that button A would have shaken the tea for five seconds, button  
