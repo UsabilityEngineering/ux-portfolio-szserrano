@@ -1,5 +1,5 @@
-###UX Journal Entry 2: Sydney Serrano 5/2/2021
-#####My user eXperience tampering with the BIOS in my laptop for the first time
+### UX Journal Entry 2: Sydney Serrano 5/2/2021 
+##### My user eXperience tampering with the BIOS in my laptop for the first time
 
 Within the spring semester of 2020, I walked into my first Operating Systems lecture and sat down ready to see what I needed to pass the class. Within the last half of the class, 
 my instructor told me that I needed to install a virtual machine in order to run a linux-based development environment so that all of the students can test their project code 
