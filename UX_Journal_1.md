@@ -10,11 +10,12 @@ of the machine:
 ![Bubble Tea Shaker Holding Shaker Cups](bubble-tea-shaker.jpg)
 ![Bubble Tea Shaker Without Shaker Cups](buy-bubble-tea-shaker-machine.jpg)  
   
-The **utility** of this bad boy allows a barista to place two shaker cups in and presses a button to have it start shaking the cups for a certain number of seconds, 
-depending on the button that was pressed. It allows a barista to focus on other tasks, such as shaking one or two other shaker cups or pouring other drinks that are 
-past the shaking process and sealing the cups that they are poured into. The **efficiency** of the machine supplies the barista who is icing with up to two well shaken 
-drinks within five to ten seconds, depending on the button pressed. The **learnability** of the machine was probably one of its weaknesses overall. Here is a picture 
-of the buttons that are on the front of the machine:  
+The **utility** of this bad boy, or in other words its usefulness, allows a barista to place two shaker cups in and presses a button to have it start shaking the cups for a 
+certain number of seconds, depending on the button that was pressed. It allows a barista to focus on other tasks, such as shaking one or two other shaker cups or pouring other 
+drinks that are past the shaking process and sealing the cups that they are poured into. The **efficiency** of the machine, or how quickly the machine produces results of high 
+quality, supplies the barista who is icing with up to two well shaken drinks within five to ten seconds, depending on the button pressed. The **learnability** of the machine, or 
+how easy it is for someone to pick up how to operate the machine, was probably one of its weaknesses overall. Here is a picture of the buttons that are on the front of the 
+machine:  
   
 ![Bubble Tea Shaker Front Buttons](bubble-tea-shaker-buttons-close.jpg)  
   
@@ -23,8 +24,3 @@ Each button resulted in the machine shaking in five more seconds than the button
 B would shake the tea for ten seconds, C for fifteen seconds, and so on. If I had not been taught by my coworkers how to use the machine, I probably would have struggled 
 to figure out how to operate it. However, with the knowledge given to me by my trainers, this machine has definitely been a lifesaver during the frantic shifts that I have 
 worked.  
-  
-Definitions:  
-- Utility: The usefulness of a piece of technology.  
-- Efficiency: How quickly a piece of technology can complete a task or produce a product of high quality.  
-- Learnability: How easy it is for someone to pick up how to operate a completely new piece of technology.
