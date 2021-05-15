@@ -11,17 +11,17 @@ below:
   
 ![VT-x Disabled Error Screen](fusion_46250_1_vtxerrorimagevmware.png)  
   
-At first I was pretty scared that I had seriously messed up some configuration within my computer during the installation process. However, after a few deep breaths and some 
+At first I was scared that I had seriously messed up some configuration within my computer during the installation process. However, after a few deep breaths and some 
 internet probing, I was able to find a solution to my problem. Apparently, the Intel Virtual Technology option within my actual computer hardware settings was disabled by default 
-by the manufacturers of my laptop. So I ended up restarting my laptop in safe mode. Mind you this was the first time that I had ever launched a computer into safe mode, so it was 
-an intriguing yet scary experience. I ended up navigating to a screen similar to this one:  
+by the manufacturers of my laptop. After some researching, I found out that I had to restart my laptop in safe mode in order to toggle it on. This was the first time that I had
+ever launched a computer into safe mode, so it was an intriguing yet scary experience. I ended up navigating to a screen similar to this one:  
   
 ![Intel Virual Technology Option Screen](Lenovo-Ideapad-BIOS-Settings.jpg)  
   
 Afterwards, I restarted my laptop and tried to start up my virtual machine yet again. This time, I had succeeded in booting it up and installing the Ubuntu operating system. The 
 **satisfaction**, or how good the technology makes a user feel when they achieve their goal, from seeing the virtual machine come to life after tinkering with the deepest parts 
 of my laptop hardware was immeasurable as the BIOS screen was something I had never seen before that day. In terms of **efficiency**, or how well the technology at helping users 
-complete tasks quickly, the BIOS screen was slightly **efficient** as it was organized into categories of tabs that were sectioned off within tabs at the top of the screen, but 
+complete tasks quickly, the BIOS screen was slightly **efficient**, as it was organized into categories of tabs that were sectioned off within tabs at the top of the screen, but 
 each tab had a long list of items to choose from as the categories were vague. I had to parse through the list for a few more minutes before I was able to find the Intel Virtual 
 Technology Option. In terms of **error tolerance**, or how well the technology catches a user making an error and guiding them back on track, the BIOS screen is also decently 
 **error tolerant**, as it prompts a user an "are you sure" screen whenever they wish to toggle any options, as well as when the user wants to save and exit the BIOS screen. I have 
