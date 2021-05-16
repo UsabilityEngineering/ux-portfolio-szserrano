@@ -4,7 +4,7 @@
 In the middle of February, I picked up a job as a milk tea barista at a shop called Tpumps. They gave me the rundown of how to make the drinks and what how to operate 
 some of the machinery that was there. On the first day, I was taught how to "ice" drinks, which is a term used to describe the process of shaking the hot teas mixed 
 with the flavors and sugars within a shaker filled with ice to cool it down. Now some days there are long lines with people who order multiple drinks, making it difficult 
-to ice more than two drinks at a time. So then I was introduced to the milk tea shaker machine that the staff uses when the line gets hectic. Below are a couple of images 
+to ice more than two drinks at a time. Eventually, I was introduced to the milk tea shaker machine that the staff uses when the line gets hectic. Below are a couple of images 
 of the machine:  
   
 ![Bubble Tea Shaker Holding Shaker Cups](bubble-tea-shaker.jpg)
